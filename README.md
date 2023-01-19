@@ -1,2 +1,2 @@
-# testing1
-testing git features
+# purpose:
+- test some functionalities of github
